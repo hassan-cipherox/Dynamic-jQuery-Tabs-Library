@@ -2,7 +2,7 @@
  create dynamic tabs
 
 # example code
-``` <div></div>
+```
 <div class="hs_tabs">
 	<section class="tab_1">
 		<header>tab 1</header>
@@ -24,3 +24,4 @@
 		animation_duration : 600,
 	});
 </script>
+```
